@@ -1,0 +1,7 @@
+type Album {
+    name: String!
+}
+
+type Query {
+    allAlbums: [Album!]
+}

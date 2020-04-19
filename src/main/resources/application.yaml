@@ -1,0 +1,5 @@
+voyager:
+  enabled: true
+  cdn:
+    enabled: false
+
